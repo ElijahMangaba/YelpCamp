@@ -62,7 +62,7 @@ A project that is a culmination of everything I learned in full-stack web applic
 
 * [Node.js] - Server-side
 * [MongoDB] - Database that stores all users, campgrounds, and reviews
-* [Cloudinary] - Provided media APIs for YelpCamp
+* [Cloudinary] - Provided media APIs for YelpCamp and another cloud service to store images from YelpCamp
 
 
 
