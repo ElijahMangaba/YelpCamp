@@ -41,7 +41,7 @@ A project that is a culmination of everything I learned in full-stack web applic
 * Prevents mongo injections and Cross Site Scripting (XSS) through sanitizing HTML
 
 
-### Built with 
+## Built with 
 
 #### Front-End
 
@@ -68,5 +68,4 @@ A project that is a culmination of everything I learned in full-stack web applic
 
 
 ## Acknowledgments
-* https://www.udemy.com/course/the-web-developer-bootcamp/  - Code along project from this course on Udemy! All credit goes to the teacher of this course, Colt Steele.
-* https://patatap.com
+* https://www.udemy.com/course/the-web-developer-bootcamp/  - Big code along project from this course on Udemy! All credit goes to the teacher of this course, Colt Steele.
